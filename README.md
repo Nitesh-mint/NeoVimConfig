@@ -8,3 +8,4 @@ My simple neovim configuration files repo.
 4. Mason(Lsp)
 5. BufferLine
 6. Catppuccin(Theme)
+7. GitSigns(for github)

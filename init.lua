@@ -1,2 +1,1 @@
-require('mintNvim')
-
+require("mintNvim")
